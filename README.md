@@ -1,5 +1,5 @@
 # api-python
-Essa api é para estudos de uso do github
+Essa api é para estudos de uso do github.
 
 - git clone: Clona o projeto 
 - git add . : Adiciona as alterações feitas no projeto
